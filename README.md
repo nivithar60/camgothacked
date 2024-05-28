@@ -1,5 +1,4 @@
-<h1 align="center">CAM-DUMPER</h1>
-<p align="center"><img src="cd.jpg" max-width="90%%" height="auto"></p>
+<h1 align="center">CAMGOTHACKED</h1>
 <p align="center">Take webcam shots from target by just sending a malicious link</p>
 
 # How it works?
@@ -15,13 +14,15 @@
 ```
 $ apt update && apt upgrade
 $ apt install git php wget curl jq
-$ git clone https://github.com/LiNuX-Mallu/CAM-DUMPER.git
-$ cd CAM-DUMPER
-$ chmod +x camdumper.sh
-$ ./camdumper.sh
+$ git clone https://github.com/nivithar60/camgothacked
+$ cd camgothacked
+$ chmod +x camgothacked.sh
+$ ./camgothacked.sh
 ```
 
 <p> Termux users should install <a href="https://play.google.com/store/apps/details?id=me.zhanghai.android.files">  MATERIAL FILES  </a> app from playstore for easy managing captured files.</p> 
 
 <b>happy hacking : ]<b>
 # camgothacked
+# Tool created By Nivitha & Gowthami
+# Credit: Hrshpriyam
