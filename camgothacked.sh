@@ -33,10 +33,10 @@ printf "                 [|]          \n"
 printf "              \_______/       \n"
 printf "               v     v        \n"
 printf "                ^___^         \n"
-printf "\e[1;92m   𝗖𝗔𝗠 𝗗𝗨𝗠𝗣𝗘𝗥      \e[0m\n"
+printf "\e[1;92m      CAMGOTHACKED      \e[0m\n"
 
 
-printf " \e[1;77m tool created by Hrsh\e[0m \n"
+printf " \e[1;77m tool created by Nivitha & Gowthami\e[0m \n"
 
 printf "\n"
 
